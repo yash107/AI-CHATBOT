@@ -1,0 +1,23 @@
+approval process 2021-22
+Institute are requested to raises queries only through online Grievance Redressal mechanism available on AICTE website under Approval Process 2021-22 quick links. No queries through email will be entertained.
+
+Can we apply for closure of the existing Institution
+Yes  The existing Institution applied for Closure of the Institution are also eligible to apply for starting a new Technical Institution in the same premises in the same Academic year.
+
+convert from Diploma to Degree Level
+Refer Clause 2.8 of APH 2021-22 Note: After re-open, the application should be resubmitted. Otherwise application will be treated as “Application Not Submitted”. 
+
+How to delete old faculty details
+Faculty record cannot be deleted Faculty can be marked as “Duplicate” or “Left the Institute” under HOI & Faculty Details tab.
+
+How to update/add the faculty details by import method
+Please follow the User Manual available @ https://aicte-india.org/bureaus/approval/ap_2020-21 for uploading faculty details by import method.
+
+We want to change details which are non-editable / read-only
+You may contact the Approval Bureau or Regional Office.
+
+I have made Online Payment but amount is not updated in portal 
+Generally, payment receipt gets updated immediately. In case, your payment receipt is not updated then click on View Transaction Button under Payment tab. Otherwise, it will get updated in 48 to 72 working hours (2 to 3 working days). In case it is not updated even after that, please raise grievance with transaction details (Transaction Id generated while making the payment) through Online Grievance Redressal form. Link is available on Approval Process 2020-21 page.
+
+Is Aadhaar/PAN details mandatory to update faculty details in AICTE Web Portal
+Yes.
